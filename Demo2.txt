@@ -1,1 +1,1 @@
-hello Demo2,jerry
+hello Demo2,jerry, this is a test message file
