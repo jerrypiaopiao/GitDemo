@@ -3,9 +3,6 @@ maybe i should do it by myself.
 
 we test a branch that named jb1.
 
-<<<<<<< HEAD
 hello master branch.
 
-=======
 hello branch jb1.
->>>>>>> jb1
