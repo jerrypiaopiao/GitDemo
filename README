@@ -1,5 +1,7 @@
 这是一个git的学习笔记
 
+
+
 git管理项目时的三个工作区域：
 本地数据目录(repository, commit 已提交并记录)、工作目录(modified->已修改)、暂存区域(staged->已暂存)
 
