@@ -17,9 +17,21 @@ git config --list
 git config --global core.editor //设定git的默认编辑器
 
 常用命令:
+
+移除文件:
 git rm <file_name> //移除指定文件
 git rm -f <file_name> //如果删除之前修改过并已放到暂存区，则要加入强制删除选项 -f参数.
 git rm --cached <file_name> //把文件从git仓库中删除(亦即从暂存区移除),但仍然希望保留在当前工作目录中(即仅从跟踪清单中删除).
+
+添加远程仓库:
+git remote add [shortname] [url]
+比如:
+git remote add JGit https://github.com/jerrypiaopiao/GitDemo.git
+
+
+
+
+
 
 git的工作流程
 1、在工作目录中修改某些文件
